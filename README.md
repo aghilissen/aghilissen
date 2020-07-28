@@ -2,7 +2,7 @@
 
 ## My name is Antoine Ghilissen
 
-... I am a geologist turned data scientist.
+... I am a geologist :hammer_and_pick: turned data scientist :computer:.
 
 I have been working for nearly 10 years and have always been working much closer to data than my fellow colleagues. :nerd_face: Centralising data and consolidating a database was one of my first professional tasks and since then I've gone down the rabbit hole.
 
